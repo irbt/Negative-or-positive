@@ -1,0 +1,15 @@
+C:\Mon_Code\Negative or positive\obj\Debug\net7.0\Negative or positive.csproj.AssemblyReference.cache
+C:\Mon_Code\Negative or positive\obj\Debug\net7.0\Negative or positive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mon_Code\Negative or positive\obj\Debug\net7.0\Negative or positive.AssemblyInfoInputs.cache
+C:\Mon_Code\Negative or positive\obj\Debug\net7.0\Negative or positive.AssemblyInfo.cs
+C:\Mon_Code\Negative or positive\obj\Debug\net7.0\Negative or positive.csproj.CoreCompileInputs.cache
+C:\Mon_Code\Negative or positive\bin\Debug\net7.0\Negative or positive.exe
+C:\Mon_Code\Negative or positive\bin\Debug\net7.0\Negative or positive.deps.json
+C:\Mon_Code\Negative or positive\bin\Debug\net7.0\Negative or positive.runtimeconfig.json
+C:\Mon_Code\Negative or positive\bin\Debug\net7.0\Negative or positive.dll
+C:\Mon_Code\Negative or positive\bin\Debug\net7.0\Negative or positive.pdb
+C:\Mon_Code\Negative or positive\obj\Debug\net7.0\Negative or positive.dll
+C:\Mon_Code\Negative or positive\obj\Debug\net7.0\refint\Negative or positive.dll
+C:\Mon_Code\Negative or positive\obj\Debug\net7.0\Negative or positive.pdb
+C:\Mon_Code\Negative or positive\obj\Debug\net7.0\Negative or positive.genruntimeconfig.cache
+C:\Mon_Code\Negative or positive\obj\Debug\net7.0\ref\Negative or positive.dll
